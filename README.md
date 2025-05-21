@@ -1,6 +1,3 @@
-Here's a README file draft for your GitHub repository:
-
----
 
 # Price Elasticity Analysis with Power BI
 
