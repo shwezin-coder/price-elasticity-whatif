@@ -47,5 +47,5 @@ Most product categories in the dataset have higher average costs than selling pr
 
 
 ## Contact
-For any questions or feedback, please contact Daniel Hardin at hninshwezinhlaing05062001@gmail.com.
+For any questions or feedback, please contact Hnin Shwe Zin Hlaing at hninshwezinhlaing05062001@gmail.com.
 
